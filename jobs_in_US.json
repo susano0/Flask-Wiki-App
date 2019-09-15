@@ -1,0 +1,142 @@
+[
+    {
+        "end_date": "2019-09-30",
+        "id": "usajobs:515658500",
+        "locations": [
+            "Muskogee, OK"
+        ],
+        "maximum": 99776,
+        "minimum": 44276,
+        "organization_name": "Veterans Affairs, Veterans Health Administration",
+        "position_title": "Registered Nurse INTENSIVE CARE UNIT",
+        "rate_interval_code": "PA",
+        "start_date": "2018-10-31",
+        "url": "https://www.usajobs.gov/GetJob/ViewDetails/515658500"
+    },
+    {
+        "end_date": "2019-09-30",
+        "id": "usajobs:515554200",
+        "locations": [
+            "Dayton, OH"
+        ],
+        "maximum": 112542,
+        "minimum": 52635,
+        "organization_name": "Veterans Affairs, Veterans Health Administration",
+        "position_title": "Staff Nurse (Community Living Center)",
+        "rate_interval_code": "PA",
+        "start_date": "2018-10-31",
+        "url": "https://www.usajobs.gov/GetJob/ViewDetails/515554200"
+    },
+    {
+        "end_date": "2019-09-27",
+        "id": "usajobs:515539400",
+        "locations": [
+            "Saint Louis, MO"
+        ],
+        "maximum": 95727,
+        "minimum": 58050,
+        "organization_name": "Veterans Affairs, Veterans Health Administration",
+        "position_title": "RN Extended Care and Rehabilitation Service",
+        "rate_interval_code": "PA",
+        "start_date": "2018-10-31",
+        "url": "https://www.usajobs.gov/GetJob/ViewDetails/515539400"
+    },
+    {
+        "end_date": "2019-09-30",
+        "id": "usajobs:515532900",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "maximum": 120651,
+        "minimum": 55184,
+        "organization_name": "Veterans Affairs, Veterans Health Administration",
+        "position_title": "Nurse Clinical Decision Unit / Emergency Department RN",
+        "rate_interval_code": "PA",
+        "start_date": "2018-10-31",
+        "url": "https://www.usajobs.gov/GetJob/ViewDetails/515532900"
+    },
+    {
+        "end_date": "2019-09-27",
+        "id": "usajobs:515524200",
+        "locations": [
+            "Saint Louis, MO"
+        ],
+        "maximum": 97077,
+        "minimum": 58870,
+        "organization_name": "Veterans Affairs, Veterans Health Administration",
+        "position_title": "RN Spinal Cord Injury",
+        "rate_interval_code": "PA",
+        "start_date": "2018-10-31",
+        "url": "https://www.usajobs.gov/GetJob/ViewDetails/515524200"
+    },
+    {
+        "end_date": "2019-09-30",
+        "id": "usajobs:515395600",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "maximum": 120124,
+        "minimum": 54665,
+        "organization_name": "Veterans Affairs, Veterans Health Administration",
+        "position_title": "Nurse/ RN Intensive Care Units",
+        "rate_interval_code": "PA",
+        "start_date": "2018-10-30",
+        "url": "https://www.usajobs.gov/GetJob/ViewDetails/515395600"
+    },
+    {
+        "end_date": "2019-10-28",
+        "id": "usajobs:515324700",
+        "locations": [
+            "Lebanon, PA"
+        ],
+        "maximum": 115499,
+        "minimum": 67952,
+        "organization_name": "Veterans Affairs, Veterans Health Administration",
+        "position_title": "Nurse Practioner / Physician Assistant",
+        "rate_interval_code": "PA",
+        "start_date": "2018-10-29",
+        "url": "https://www.usajobs.gov/GetJob/ViewDetails/515324700"
+    },
+    {
+        "end_date": "2019-09-30",
+        "id": "usajobs:515151900",
+        "locations": [
+            "Dayton, OH"
+        ],
+        "maximum": 112542,
+        "minimum": 52635,
+        "organization_name": "Veterans Affairs, Veterans Health Administration",
+        "position_title": "Staff Nurse (Medical/Surgical)",
+        "rate_interval_code": "PA",
+        "start_date": "2018-10-26",
+        "url": "https://www.usajobs.gov/GetJob/ViewDetails/515151900"
+    },
+    {
+        "end_date": "2019-09-27",
+        "id": "usajobs:515150100",
+        "locations": [
+            "Saint Louis, MO"
+        ],
+        "maximum": 95727,
+        "minimum": 58050,
+        "organization_name": "Veterans Affairs, Veterans Health Administration",
+        "position_title": "RN Med Surg",
+        "rate_interval_code": "PA",
+        "start_date": "2018-10-26",
+        "url": "https://www.usajobs.gov/GetJob/ViewDetails/515150100"
+    },
+    {
+        "end_date": "2019-09-30",
+        "id": "usajobs:515096800",
+        "locations": [
+            "Knoxville, IA"
+        ],
+        "maximum": 133399,
+        "minimum": 92017,
+        "organization_name": "Veterans Affairs, Veterans Health Administration",
+        "position_title": "Nurse Practitioner (Home Based Primary Care, Knoxville)",
+        "rate_interval_code": "PA",
+        "start_date": "2018-10-26",
+        "url": "https://www.usajobs.gov/GetJob/ViewDetails/515096800"
+    }
+]
